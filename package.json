@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "countup.js": "^2.4.2",
+    "jquery": "^3.6.3"
+  }
+}

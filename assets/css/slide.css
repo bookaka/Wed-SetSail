@@ -1,0 +1,33 @@
+:root{
+    --primary-color: #3fd0d4;
+
+
+}
+
+.slick-dots{
+   bottom: -60px;
+}
+.slick-dots li{
+    margin: 0 24px;
+    width: 16px;
+    height: 16px;
+}
+.slick-dots button{
+    background-color: rgba(63, 208, 212, 0.4) !important;
+    font-size: 0 !important;
+    
+    border-radius: 50%;
+    width: 16px !important;
+    height: 16px !important;
+}
+.slick-dots button:hover{
+    background-color: rgba(63, 208, 212, 1)!important;
+}
+.slick-dots li button:before{
+    color: transparent !important;
+}
+.slick-dots .slick-active {
+    background-color: rgba(63, 208, 212, 1)!important;
+    
+    border-radius: 50%;
+}
